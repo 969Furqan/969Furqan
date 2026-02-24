@@ -78,13 +78,13 @@ Multi-ERP backend handling invoice ingestion, validation, and automated complian
 
 ## 🎓 Education & Certifications
 
-> ⚠️ *Fill in your actual education and certifications below.*
 
 | 🏫 Degree / Certification | Institution | Year |
 |---|---|---|
-| BS Computer Science *(or your degree)* | Your University Name | 20XX |
-| Certification Name | Issuing Body (e.g. Coursera, Google) | 20XX |
-| Certification Name | Issuing Body | 20XX |
+| BS Computer Science | COMSATS Lahore | 2025 |
+| MS Computer Science | FAST NUCES Lahore | 2027 |
+| Crash Course on Python | GOOGLE | 2025 |
+| Using Python to Interact with the Operating System | GOOGLE | 2025 |
 
 ---
 
@@ -104,22 +104,13 @@ Multi-ERP backend handling invoice ingestion, validation, and automated complian
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=969Furqan&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true" /><br/>
+ 
   <img src="https://nirzak-streak-stats.vercel.app/?user=969Furqan&theme=ayu-mirage&hide_border=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=969Furqan&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=969Furqan&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4" />
-</p>
-
----
 
 <p align="center">
   <i>Open to backend engineering opportunities — feel free to reach out!</i><br/>
